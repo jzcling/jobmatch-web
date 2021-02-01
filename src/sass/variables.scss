@@ -1,0 +1,38 @@
+// Globals
+$primary: #419A1C;
+$secondary: #F2E416;
+$font-size-root: 12px;
+$input-font-size: 12px;
+// $line-height-root: 1.25;
+$btn-sizes: (
+    'x-small': 16,
+    'small': 24,
+    'default': 32,
+    'large': 40,
+    'x-large': 48
+);
+
+$icon-sizes: (
+    'x-small': (
+        'font-size': 8,
+        'height': 12
+    ),
+    'small': (
+        'font-size': 10,
+        'height': 20
+    ),
+    'default': (
+        'font-size': 12,
+        'height': 28
+    ),
+    'large': (
+        'font-size': 14,
+        'height': 36
+    ),
+    'x-large': (
+        'font-size': 16,
+        'height': 44
+    )
+);
+
+$textarea-line-height: 1.5rem;
